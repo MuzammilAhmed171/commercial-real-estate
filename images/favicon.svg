@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#070A0F" stroke="#09742D" stroke-width="2.5"/>
+  <!-- Skyscraper 1 -->
+  <rect x="11" y="24" width="12" height="28" rx="1.5" fill="#09742D"/>
+  <rect x="14" y="28" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="18" y="28" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="14" y="34" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="18" y="34" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="14" y="40" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="18" y="40" width="2.5" height="3" fill="#070A0F"/>
+
+  <!-- Skyscraper 2 (Center Hero) -->
+  <rect x="25" y="12" width="14" height="40" rx="2" fill="#10B981"/>
+  <line x1="32" y1="6" x2="32" y2="12" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="28" y="16" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="33" y="16" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="28" y="22" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="33" y="22" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="28" y="28" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="33" y="28" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="28" y="34" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="33" y="34" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="28" y="40" width="3" height="3.5" fill="#070A0F"/>
+  <rect x="33" y="40" width="3" height="3.5" fill="#070A0F"/>
+
+  <!-- Skyscraper 3 -->
+  <rect x="41" y="28" width="12" height="24" rx="1.5" fill="#075E26"/>
+  <rect x="44" y="32" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="48" y="32" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="44" y="38" width="2.5" height="3" fill="#070A0F"/>
+  <rect x="48" y="38" width="2.5" height="3" fill="#070A0F"/>
+</svg>
